@@ -1,0 +1,162 @@
+MERGED PACK — 634 total presets
+Custom 1–155 = Realistic World (named below)
+Custom 156–634 = Previous packs (no individual names)
+======================================================================
+
+REALISTIC SECTION (Custom number | Brand | Name | Era)
+----------------------------------------------------------------------
+Custom   1 | BMW                | Alpine White III             | 1990-2026
+Custom   2 | BMW                | Black Sapphire Metallic      | 2000-2026
+Custom   3 | BMW                | Carbon Black Metallic        | 2000-2026
+Custom   4 | BMW                | Brooklyn Grey Metallic       | 2015-2026
+Custom   5 | BMW                | Mineral Grey Metallic        | 2010-2026
+Custom   6 | BMW                | Dravit Grey Metallic         | 2018-2026
+Custom   7 | BMW                | Isle of Man Green            | 2019-2026
+Custom   8 | BMW                | Sao Paulo Yellow             | 2015-2026
+Custom   9 | BMW                | Marina Bay Blue              | 2015-2026
+Custom  10 | BMW                | Yas Marina Blue              | 2010-2020
+Custom  11 | BMW                | Long Beach Blue              | 2015-2026
+Custom  12 | BMW                | Portimao Blue                | 2018-2026
+Custom  13 | BMW                | Austin Yellow                | 2015-2022
+Custom  14 | BMW                | Sakhir Orange                | 2015-2026
+Custom  15 | BMW                | Imola Red                    | 2000-2015
+Custom  16 | BMW                | Toronto Red                  | 2018-2026
+Custom  17 | BMW                | Frozen Black                 | 2015-2026
+Custom  18 | BMW                | Frozen Grey                  | 2015-2026
+Custom  19 | BMW                | Hockenheim Silver            | 2010-2026
+Custom  20 | BMW                | Estoril Blue                 | 1990-2005
+Custom  21 | Porsche            | Guards Red                   | 1960-2026
+Custom  22 | Porsche            | GT Silver Metallic           | 2000-2026
+Custom  23 | Porsche            | Chalk                        | 2016-2026
+Custom  24 | Porsche            | Miami Blue                   | 2019-2026
+Custom  25 | Porsche            | Python Green                 | 2018-2026
+Custom  26 | Porsche            | Lizard Green                 | 2018-2026
+Custom  27 | Porsche            | Racing Yellow                | 1960-2026
+Custom  28 | Porsche            | Gentian Blue                 | 2015-2026
+Custom  29 | Porsche            | Agate Grey                   | 2010-2026
+Custom  30 | Porsche            | Jet Black Metallic           | 1990-2026
+Custom  31 | Porsche            | Carrara White                | 2000-2026
+Custom  32 | Porsche            | Ruby Star                    | 1990-1993
+Custom  33 | Ferrari            | Rosso Corsa                  | 1950-2026
+Custom  34 | Ferrari            | Giallo Modena                | 1990-2026
+Custom  35 | Ferrari            | Bianco Avus                  | 2000-2026
+Custom  36 | Ferrari            | Blu Tour de France           | 2010-2026
+Custom  37 | Ferrari            | Verde British                | 1960-1980
+Custom  38 | Ferrari            | Argento Nurburgring          | 2000-2026
+Custom  39 | Ferrari            | Nero Daytona                 | 2000-2026
+Custom  40 | Lamborghini        | Verde Mantis                 | 2010-2026
+Custom  41 | Lamborghini        | Arancio Atlas                | 2015-2026
+Custom  42 | Lamborghini        | Blu Cepheus                  | 2018-2026
+Custom  43 | Lamborghini        | Nero Aldebaran               | 2010-2026
+Custom  44 | Lamborghini        | Bianco Icarus                | 2015-2026
+Custom  45 | Lamborghini        | Giallo Orion                 | 2015-2026
+Custom  46 | Lamborghini        | Viola Parsifae               | 2015-2026
+Custom  47 | Audi               | Nardo Grey                   | 2013-2026
+Custom  48 | Audi               | Daytona Grey Pearl           | 2010-2026
+Custom  49 | Audi               | Mythos Black                 | 2010-2026
+Custom  50 | Audi               | Glacier White                | 2010-2026
+Custom  51 | Audi               | Turbo Blue                   | 2015-2026
+Custom  52 | Audi               | Tango Red                    | 2015-2026
+Custom  53 | Audi               | Sonoma Green                 | 2018-2026
+Custom  54 | Audi               | Suzuka Grey                  | 2015-2026
+Custom  55 | Audi               | Nogaro Blue                  | 1990-2010
+Custom  56 | Mercedes           | Obsidian Black               | 2000-2026
+Custom  57 | Mercedes           | Selenite Grey                | 2015-2026
+Custom  58 | Mercedes           | Polar White                  | 2000-2026
+Custom  59 | Mercedes           | Iridium Silver               | 2005-2026
+Custom  60 | Mercedes           | Designo Magno Grey           | 2015-2026
+Custom  61 | Mercedes           | Designo Magno Black          | 2015-2026
+Custom  62 | Mercedes           | Brilliant Blue               | 2010-2026
+Custom  63 | Mercedes           | Hyacinth Red                 | 2018-2026
+Custom  64 | Mercedes           | Emerald Green                | 2015-2026
+Custom  65 | VW                 | Tornado Red                  | 1990-2026
+Custom  66 | VW                 | Lapiz Blue                   | 2015-2026
+Custom  67 | VW                 | Pure White                   | 2010-2026
+Custom  68 | VW                 | Deep Black Pearl             | 2005-2026
+Custom  69 | VW                 | Reflex Silver                | 2000-2026
+Custom  70 | VW                 | Moonstone Grey               | 2018-2026
+Custom  71 | VW                 | Kings Red                    | 2020-2026
+Custom  72 | VW                 | Urano Grey                   | 2015-2026
+Custom  73 | Ford               | Race Red                     | 2000-2026
+Custom  74 | Ford               | Grabber Blue                 | 1969-1971+modern
+Custom  75 | Ford               | Wimbledon White              | 1960-1970
+Custom  76 | Ford               | Oxford White                 | 2000-2026
+Custom  77 | Ford               | Magnetic Grey                | 2015-2026
+Custom  78 | Ford               | Shadow Black                 | 2015-2026
+Custom  79 | Ford               | Velocity Blue                | 2018-2026
+Custom  80 | Ford               | Twister Orange               | 2010-2020
+Custom  81 | Ford               | Need for Green               | 2010-2015
+Custom  82 | Chevrolet          | Torch Red                    | 1990-2026
+Custom  83 | Chevrolet          | Arctic White                 | 2000-2026
+Custom  84 | Chevrolet          | Black                        | 1950-2026
+Custom  85 | Chevrolet          | Riverside Blue               | 1960-1970
+Custom  86 | Chevrolet          | Hugger Orange                | 1969-1972
+Custom  87 | Chevrolet          | Rally Yellow                 | 1960-1970
+Custom  88 | Chevrolet          | Cyber Grey                   | 2015-2026
+Custom  89 | Chevrolet          | Caffeine Metallic            | 2020-2026
+Custom  90 | Dodge              | Plum Crazy Purple            | 1970-1971+modern
+Custom  91 | Dodge              | Sublime Green                | 1970-1971
+Custom  92 | Dodge              | Hemi Orange                  | 1968-1971
+Custom  93 | Dodge              | Go Mango                     | 2010-2026
+Custom  94 | Dodge              | Billet Silver                | 2010-2026
+Custom  95 | Dodge              | Pitch Black                  | 2010-2026
+Custom  96 | Nissan             | Midnight Purple III          | 1999-2002
+Custom  97 | Nissan             | Bayside Blue                 | 1999-2002
+Custom  98 | Nissan             | Millennium Jade              | 2000-2002
+Custom  99 | Nissan/Toyota      | Super White                  | 1990-2026
+Custom 100 | Nissan             | Super Black                  | 1990-2026
+Custom 101 | Nissan             | Active Red                   | 1990-2005
+Custom 102 | Honda              | Championship White           | 1990-2026
+Custom 103 | Honda              | Championship White NSX       | 1990-2005
+Custom 104 | Mazda              | Soul Red Crystal             | 2015-2026
+Custom 105 | Mazda              | Machine Grey                 | 2015-2026
+Custom 106 | Subaru             | World Rally Blue             | 1997-2026
+Custom 107 | Subaru             | Crystal White Pearl          | 2010-2026
+Custom 108 | Toyota             | Emotional Red                | 2015-2026
+Custom 109 | Toyota             | Attitude Black               | 2015-2026
+Custom 110 | Tesla              | Pearl White Multi-Coat       | 2012-2026
+Custom 111 | Tesla              | Solid Black                  | 2012-2026
+Custom 112 | Tesla              | Deep Blue Metallic           | 2012-2026
+Custom 113 | Tesla              | Ultra Red                    | 2023-2026
+Custom 114 | Tesla              | Stealth Grey                 | 2023-2026
+Custom 115 | Tesla              | Quicksilver                  | 2024-2026
+Custom 116 | Aston/Jaguar       | British Racing Green         | 1950-2026
+Custom 117 | Aston Martin       | Quantum Silver               | 2015-2026
+Custom 118 | Aston Martin       | Magnetic Silver              | 2010-2026
+Custom 119 | Aston Martin       | Santorini Black              | 2010-2026
+Custom 120 | Bentley            | Beluga Black                 | 2000-2026
+Custom 121 | Bentley            | Extreme Silver               | 2015-2026
+Custom 122 | Rolls-Royce        | English White                | 1950-2026
+Custom 123 | Rolls-Royce        | Midnight Sapphire            | 2015-2026
+Custom 124 | Jaguar             | Silver Sand                  | 2000-2026
+Custom 125 | Jaguar             | Firenze Red                  | 2015-2026
+Custom 126 | McLaren            | Papaya Spark                 | 2018-2026
+Custom 127 | McLaren            | Volcano Orange               | 2015-2026
+Custom 128 | McLaren            | Saros Grey                   | 2018-2026
+Custom 129 | McLaren            | White                        | 2010-2026
+Custom 130 | Renault            | Liquid Yellow                | 2000-2015
+Custom 131 | Renault            | Flame Red                    | 2015-2026
+Custom 132 | Renault            | Iron Blue                    | 2015-2026
+Custom 133 | Peugeot            | Vertigo Blue                 | 2015-2026
+Custom 134 | Peugeot            | Elixir Red                   | 2020-2026
+Custom 135 | Volvo              | Crystal White Pearl          | 2015-2026
+Custom 136 | Volvo              | Denim Blue                   | 2015-2026
+Custom 137 | Volvo              | Onyx Black                   | 2015-2026
+Custom 138 | Opel               | Power Red                    | 2015-2026
+Custom 139 | Opel               | Jade Green                   | 2015-2026
+Custom 140 | TOGG               | Anadolu Kirmizi              | 2023-2026
+Custom 141 | TOGG               | Gemlik Mavi                  | 2023-2026
+Custom 142 | TOGG               | Oltu Siyah                   | 2023-2026
+Custom 143 | TOGG               | Pamukkale Beyaz              | 2023-2026
+Custom 144 | BYD                | Emperor Red                  | 2020-2026
+Custom 145 | BYD                | Snow White                   | 2020-2026
+Custom 146 | MG                 | Hunter Green                 | 2022-2026
+Custom 147 | Hyundai            | Gravity Gold Matte           | 2020-2026
+Custom 148 | Hyundai            | Digital Teal                 | 2020-2026
+Custom 149 | Classic GM         | Bahama Yellow                | 1960-1970
+Custom 150 | Classic Mopar      | Panther Pink                 | 1970
+Custom 151 | Classic Mopar      | Lemon Squeeze                | 1970
+Custom 152 | Classic Ford       | Vitamin C                    | 1970
+Custom 153 | Classic Porsche    | Graugruen                    | 1970s
+Custom 154 | Gulf Heritage      | Gulf Blue                    | 1960-1970
+Custom 155 | Gulf Heritage      | Gulf Orange                  | 1960-1970
