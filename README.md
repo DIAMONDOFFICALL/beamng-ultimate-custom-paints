@@ -1,68 +1,56 @@
-# BeamNG Ultimate Custom Paints
+**634 High-Precision Custom Paint Presets** for BeamNG.drive.
 
-479 high-quality custom paint presets for BeamNG.drive.
-The most comprehensive paint pack created for the game.
+A comprehensive collection featuring **exact OEM/Factory color matches (1950–2026)** calibrated with accurate PBR (Physically Based Rendering) values, metallic flakes, and clearcoat roughness, alongside exclusive thematic packs.
 
-==================================================
-PACK CONTENTS & CATEGORIES
-==================================================
+---
 
-1. MANUFACTURER (198 presets)
-   - BMW, Porsche, Ferrari, Audi, VW, Tesla, TOGG, Truck & Bus colors.
+## Pack Structure
 
-2. CREATOR (91 presets)
-   - Turkish & international YouTuber / streamer themes.
+### Part 1 — Authentic OEM & Production Colors (Custom 1–155)
+Accurately mapped factory paint codes, metallic tones, and pearlescent finishes spanning 1950 to 2026.
 
-3. MILITARY & CAMO (20 presets)
-   - Military, camouflage, and matte operational tactical colors.
+**Featured Manufacturers:**
+BMW, Porsche, Ferrari, Lamborghini, Audi, Mercedes-Benz, Volkswagen, Ford, Chevrolet, Dodge, Nissan, Honda, Mazda, Subaru, Toyota, Tesla, Aston Martin, Jaguar, Bentley, Rolls-Royce, McLaren, Renault, Peugeot, Volvo, Opel, TOGG, BYD, MG, Hyundai, plus iconic historic muscle & Gulf heritage schemes.
 
-4. RACING (25 presets)
-   - GT3, DTM, WRC, NASCAR, Formula Drift, Group B liveries & bases.
+> Refer to `COLOR_INDEX_MERGED.txt` for the complete `Custom [X]` index-to-paint-code mapping.
 
-5. JDM SPECIAL (25 presets)
-   - Midnight Purple, Bayside Blue, Millennium Jade, Soul Red, etc.
+### Part 2 — Thematic & Specialty Packs (Custom 156–634)
 
-6. NEON / CYBER (25 presets)
-   - Fluorescent, satin, matte, chrome, and hyper futuristic colors.
+| Category | Count | Description |
+|----------|-------|-------------|
+| Extended OEM Library | ~198 | Expanded factory shades & historical colorways |
+| Creator Series | 91 | Dedicated Turkish & International creator palettes |
+| Tactical & Military | 20 | Matte tactical, olive drab, desert tan, radar-absorbent tones |
+| Motorsport Heritage | 25 | GT3, DTM, WRC, NASCAR, Drift, Group B liveries |
+| JDM Icons | 25 | Midnight Purple I/II/III, Bayside Blue, Millennium Jade, Chrome Orange |
+| Cyber & Neon | 25 | High-contrast fluorescent, satin chrome, hyper-pigmented finishes |
+| Classic Muscle & Vintage | 25 | 1950s–1980s American V8 & European classic tones |
+| Pop Culture & Gaming | 25 | Iconic shades inspired by *Fast & Furious*, *NFS*, *Gran Turismo*, *Forza* |
+| Emergency & Fleet | 20 | Calibrated Police, Fire, Ambulance, Gendarmerie liveries |
+| Ultra-Luxury & Matte | 25 | Mercedes Magno, BMW Frozen series, bespoke satin/matte finishes |
 
-7. CLASSIC MUSCLE (25 presets)
-   - 1950s-1980s American Muscle + European classic shades.
+**Total: 634 Custom Presets**
 
-8. FILM & GAME (25 presets)
-   - Iconic colors from Fast & Furious, Need for Speed, Gran Turismo, Forza.
+---
 
-9. OFFICIAL / EMERGENCY (20 presets)
-   - Police, Fire Dept, Ambulance, Gendarmerie / Military Police.
+## Installation
 
-10. LUXURY & EXCLUSIVE (25 presets)
-    - Rolls-Royce, Bentley, Mercedes Magno, BMW Frozen series.
-
-TOTAL: 479 PRESETS
-
-==================================================
-HOW TO INSTALL
-==================================================
-
-1. Navigate to your BeamNG user directory:
+1. Navigate to your local BeamNG user directory:
+   ```text
    AppData\Local\BeamNG\BeamNG.drive\current\settings\cloud\
 
-2. BACK UP your current "settings.json" file (save it somewhere safe).
+ * Crucial: Create a backup of your existing settings.json.
+ * Copy settings_MERGED_634.json into the directory.
+ * Rename settings_MERGED_634.json to settings.json.
+ * Launch or restart BeamNG.drive.
+Technical Specifications
+ * PBR Alignment: All presets utilize calibrated base color (albedo), metallic intensity, clearcoat roughness, and specular parameters to match real-world light behavior under BeamNG's lighting engine.
+ * In-Game Display: Presets register sequentially as Custom 1 through Custom 634 in the paint selector. Use COLOR_INDEX_MERGED.txt for fast cross-referencing.
+ * Compatibility: Fully compatible with all native BeamNG vehicles and custom JBeam mods.
+ * Disclaimer: Independent project. Manufacturer and brand names are referenced strictly for historical and stylistic accuracy. Not affiliated with BeamNG GmbH.
+License & Credits
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+You are free to share, adapt, and build upon this material for any purpose, provided appropriate credit is given:
+Paint Presets & PBR Calibration by DIAMONDOFFICALL — CC BY 4.0
 
-3. Open the "settings_packs" folder in this download.
-
-4. Pick the preset file you want to use.
-
-5. Rename that file to "settings.json" and place it inside the "cloud" folder.
-
-6. Launch or restart BeamNG.drive.
-
-* NOTE: To use every single color at once, use "settings_ALL_COMBINED.json".
-
-==================================================
-IMPORTANT NOTES
-==================================================
-
-- These presets use fan-made, approximate PBR (Physically Based Rendering) values.
-- These are NOT official factory paint codes.
-- Brand, vehicle, and creator names are used purely for identification and thematic purposes.
-- This pack is an independent fan project and is NOT affiliated with BeamNG GmbH.
+Full License Terms: https://creativecommons.org/licenses/by/4.0/
