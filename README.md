@@ -54,3 +54,5 @@ You are free to share, adapt, and build upon this material for any purpose, prov
 Paint Presets & PBR Calibration by DIAMONDOFFICALL — CC BY 4.0
 
 Full License Terms: https://creativecommons.org/licenses/by/4.0/
+
+Fun Fact: When you apply this file, my graphics and control settings will also be loaded by default. You’ll need to take two minutes to reconfigure your own key bindings and graphics. You’re getting 634 PBR-calibrated color palettes at your fingertips with a single click—so let those two clicks be the price of the project!
